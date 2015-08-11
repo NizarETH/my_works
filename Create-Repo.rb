@@ -45,7 +45,11 @@ class Gitcreate
     
     def crete_repo(name)
             puts "Creating Git repository #{name}...".blue
-            cmd="curl -H \"Content-Type:application/json\" http://#{@host}/api/v3/projects?private_token=#{@token} -d '{\"name\":\"#{name}\"}'"
+            cmd="curl -H \"Content-Type:application/json\" http://#{@host}/api/v3/projects?private_token=#{@token} -d '{\"name\":\"#{name}\",\"visibility_level\": 20 }'"
+        # Visibility_level :
+        # 20 for Public
+        # 10 for Internal
+        # 0  for Private
             puts cmd
             system(cmd)
             puts " done."
