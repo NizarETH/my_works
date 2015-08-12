@@ -70,7 +70,7 @@ class Gitcreate
         msg=STDIN.gets.chomp()
         cmd3="git commit -m \"#{msg}\""
         system(cmd3)
-        cmd4="git remote add origin git@#{@host}:groupe-stagiaire/#{name}.git"
+        cmd4="git remote add origin git@#{@host}:group-form-1/#{name}.git"
         puts cmd4
         system(cmd4)
         system("git push -u origin master")
