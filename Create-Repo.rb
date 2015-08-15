@@ -9,9 +9,9 @@ class Gitcreate
     
     def initialize
         #by ETTAHERI Nizar
-        @token="pDxyhoeVhdzcEUcS-wB9"
-        @user="nizar"
-        @host="devserver"
+        @token="xxxxxxxxxxxxxx"
+        @user="user"
+        @host="host"
         
     end
     def gitignore
@@ -71,7 +71,7 @@ class Gitcreate
         cmd3="git commit -m \"#{msg}\""
         system(cmd3)
         #I add group-form-1 for the user
-        cmd4="git remote add origin git@#{@host}:group-form-1/#{name}.git"
+        cmd4="git remote add origin git@#{@host}:#{@user}/#{name}.git"
         puts cmd4
         system(cmd4)
         system("git push -u origin master")
