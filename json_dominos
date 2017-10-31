@@ -1,0 +1,29 @@
+{
+"id" : "1",
+ "promos" : [
+  {
+  "id" : "1",
+  "title" :"Lundi Fou",
+  "data" : "Commencez votre semaine du bon pied en commandant l'une de nos pizzas larges à 99 DHs seulement les Lundi Fou sont exclusivement chez Domino's Pizza ",
+  "img" : "https://i.imgur.com/xg22snR.png"
+  },
+  {
+  "id" : "2",
+  "title" :"Dessert",
+  "data" : " C’est la fin de la semaine. Faites vous plaisir en dégustant l’un de nos succulents desserts",
+  "img" : "https://i.imgur.com/T9mAOod.png"
+  },
+  {
+  "id" : "3",
+  "title" :"Menu",
+  "data" : "تعطلتي فالغداء ؟ حرتي شنو تاكل ؟ دومينوز كتقدم￼￼ لك عرض الظهيرة عندك 2 ديال الاختيارات من 12 تال 17 غيرب 49 درهم",
+  "img" : "https://i.imgur.com/qNSNNwH.png"
+  },
+  {
+  "id" : "4",
+  "title" : "",
+  "data" : "Vous êtes des mozarella lovers ? Domino's Pizza a pensé à vous testez la savoureuse formule double fromage de nos pizzas Mmmm irrésistible",
+  "img" : "https://i.imgur.com/9VjkwCY.png"
+  }
+ ]
+}
