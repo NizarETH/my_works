@@ -4,13 +4,13 @@
   {
   "id" : "1",
   "title" :"Lundi Fou",
-  "data" : "Commencez votre semaine du bon pied en commandant l'une de nos pizzas larges à 99 DHs seulement les Lundi Fou sont exclusivement chez Domino's Pizza ",
+  "data" : "Commencez votre semaine du bon pied en commandant l\'une de nos pizzas larges à 99 DHs seulement les Lundi Fou sont exclusivement chez Domino\'s Pizza ",
   "img" : "https://i.imgur.com/xg22snR.png"
   },
   {
   "id" : "2",
   "title" :"Dessert",
-  "data" : " C’est la fin de la semaine. Faites vous plaisir en dégustant l’un de nos succulents desserts",
+  "data" : " C\'est la fin de la semaine. Faites vous plaisir en dégustant l\'un de nos succulents desserts",
   "img" : "https://i.imgur.com/T9mAOod.png"
   },
   {
@@ -22,7 +22,7 @@
   {
   "id" : "4",
   "title" : "",
-  "data" : "Vous êtes des mozarella lovers ? Domino's Pizza a pensé à vous testez la savoureuse formule double fromage de nos pizzas Mmmm irrésistible",
+  "data" : "Vous êtes des mozarella lovers ? Domino\'s Pizza a pensé à vous testez la savoureuse formule double fromage de nos pizzas Mmmm irrésistible",
   "img" : "https://i.imgur.com/9VjkwCY.png"
   }
  ],
@@ -31,85 +31,85 @@
  "id" : "1",
  "longi" : "-5.8403184",
  "lat" : "35.7811233",
- "title" :"Domino's Pizza Tanger"
+ "title" :"Domino\'s Pizza Tanger"
  },
   {
  "id" : "2",
  "longi" : "-6.580663",
  "lat" : "34.2536236",
- "title" :"Domino's Pizza Kénitra"
+ "title" :"Domino\'s Pizza Kénitra"
  },
   {
  "id" : "3",
  "longi" : "-6.8679839",
  "lat" : "33.9603983",
- "title" :"Domino's Pizza Rabat"
+ "title" :"Domino\'s Pizza Rabat"
  },
   {
  "id" : "4",
  "longi" : "-6.8510082",
  "lat" : "33.9892973",
- "title" :"Domino's Pizza Rabat - Agdal"
+ "title" :"Domino\'s Pizza Rabat - Agdal"
  },
   {
  "id" : "5",
  "longi" : "-6.9430871",
  "lat" : "33.9346036",
- "title" :"Domino's Pizza Temara"
+ "title" :"Domino\'s Pizza Temara"
  },
   {
  "id" : "6",
  "longi" : "-7.3875459",
  "lat" : "33.6958158",
- "title" :"Domino's Pizza Mohammedia"
+ "title" :"Domino\'s Pizza Mohammedia"
  },
   {
  "id" : "7",
  "longi" : "-7.38751978",
  "lat" : "33.69574889",
- "title" : "Domino's Pizza la gare Mohammedia"
+ "title" : "Domino\'s Pizza la gare Mohammedia"
  },
  {
  "id" : "8",
  "longi" : "-7.611487",
  "lat" : "33.573192",
- "title" :"Domino's Pizza Casablanca"
+ "title" :"Domino\'s Pizza Casablanca"
  },
  {
  "id" : "9",
  "longi" : "-7.6442196",
  "lat" : "33.5833179",
- "title" :"Domino's Pizza Casablanca 1"
+ "title" :"Domino\'s Pizza Casablanca 1"
  },
  {
  "id" : "10",
  "longi" : "-7.6646473",
  "lat" : "33.5985673",
- "title" :"Domino's Pizza Casablanca 2"
+ "title" :"Domino\'s Pizza Casablanca 2"
  },
   {
  "id" : "11",
  "longi" : "-8.0129781",
  "lat" : "31.6329722",
- "title" :"Domino's Pizza Marrakech"
+ "title" :"Domino\'s Pizza Marrakech"
  },
   {
  "id" : "12",
  "longi" : "-9.5917357",
  "lat" : "30.4252772",
-  "title" :"Domino's Pizza Agadir"
+  "title" :"Domino\'s Pizza Agadir"
  },
  {
  "id" : "13",
  "longi" : "-9.580190",
  "lat" : "30.395040",
-  "title" :"Domino's Pizza Agadir 1"
+  "title" :"Domino\'s Pizza Agadir 1"
  },
   {
  "id" : "14",
  "longi" : "-4.9950872",
  "lat" : "34.0457087",
- "title" :"Domino's Pizza Fes"
+ "title" :"Domino\'s Pizza Fes"
  }
  ]
 }
