@@ -1,6 +1,6 @@
 {
   "id":1,
-  "modules": [
+  "incident": 
     {
       "id":1,
       "title":"Incident",
@@ -8,6 +8,7 @@
       "numberIncident":3,
       "access":3
     },
+      "infraction": 
     {
       "id":2,
       "title":"Infraction",
@@ -15,6 +16,7 @@
       "numberInfraction":4,
       "access":3
     },
+      "procedure": 
     {
       "id":3,
       "title":"Procédure",
@@ -22,6 +24,7 @@
       "numberProcedure":4,
       "access":3
     },
+      "mcom": 
     {
       "id":4,
       "title":"MCO Materiel",
@@ -32,6 +35,7 @@
       "contract":43,
       "access":3
     },
+      "mcop": 
     {
       "id":5,
       "title":"MCO Personnel",
@@ -42,6 +46,7 @@
       "sensitization":60,
       "access":3
     },
+      "action": 
     {
       "id":6,
       "title":"Actions",
@@ -50,6 +55,7 @@
       "number2Actions":3,
       "access":3
     },
+      "journal": 
     {
       "id":7,
       "title":"Journal",
@@ -57,6 +63,7 @@
       "numberJournal":2,
       "access":3
     },
+      "biblio": 
     {
       "id":8,
       "title":"Bibliographie",
@@ -64,6 +71,7 @@
       "numberBiblio":8,
       "access":3
     },
+      "niveau": 
     {
       "id":9,
       "title":"Niveau de sûreté",
@@ -71,6 +79,7 @@
       "numberNiveau":2,
       "access":3
     },
+      "audit": 
     {
       "id":10,
       "title":"Audit",
@@ -79,5 +88,5 @@
       "numberFunction":59,
       "access":3
     }
-  ]
+  
 }
